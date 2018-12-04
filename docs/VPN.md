@@ -4,4 +4,3 @@
 - Different protocols are used for different VPNs.  
 
 ## VPN Protocols
-![VPN](/assets/VPN_Protocols.png)
