@@ -8,3 +8,5 @@
 * Avoid overload of any single resource.
 
 Hello Computer SCIENCE CLASS
+
+![LB1](/assets/LB1.png)
