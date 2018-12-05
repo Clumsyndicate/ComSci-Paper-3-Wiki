@@ -6,3 +6,5 @@
 * Maximize throughput (Maximize the production rate)
 * Minimize response time
 * Avoid overload of any single resource.
+
+Hello Computer SCIENCE CLASS
