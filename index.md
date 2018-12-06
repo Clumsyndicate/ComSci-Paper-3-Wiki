@@ -11,7 +11,7 @@
 * [HTTP/HTTPS](docs/HTTP)
 
 ### Jimmy Gao
-* [IP Hash](docs/IPHash)
+* [IP Hash](docs/IPhash)
 
 ### Jack Gong
 
