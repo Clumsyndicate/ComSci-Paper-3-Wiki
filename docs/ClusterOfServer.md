@@ -2,6 +2,13 @@
 Is a computer program that allows server computers to work together as a computer cluster, to provide failover and increased availability of applications, or parallel calculating power in case of high-performance computing (HPC) cluster.
 
 ## Benefits of cluster of server
+### 1. Failover systems and servers
+
+It can solve almost all the hardware failures. In anycases when server in the cluster has some problems about mother board, CPU, memory, hard disk or even lose the power source, the failover system will switch all the relative tasks into another server.
+
+
+2. Focus on the application layer based on the user, application, operation systemand hardware interaction structure.
+3. Reduce the risk of people mistake
 
 
 
@@ -15,7 +22,7 @@ Here is the main roles of operation system.
 ![oprole](/docs/assets/oprole.png)
 It is one of the most essential roles for the operation system.
 ![OPsys](/docs/assets/opsys.png)
-## Example:
+## Examples:
 We can open a certain file using the function fopen() in C language. The function fopen()is an example of API design for C so that it can enable the user to use a simple function to finish a serial of operation. 
 
 Without such API function, the user have to search and open the file by himself which is very complex and time consuming. 
