@@ -8,6 +8,15 @@ It can solve almost all the hardware failures. In anycases when server in the cl
 
 
 2. Focus on the application layer based on the user, application, operation systemand hardware interaction structure.
+
+In an operating system, most user will only use the data and these applications on the hardware. In order to get access to these necessary data, from the graph below, the user needs first access to the application, then the application will help the user to access to the operating system and finally reach the data on the hardware. The problem is that if one part of the whole chain break down, the user can't access to the data. 
+
+It is the same for the server-client model. We only need to replace the hardware by the server. If there is any problems among the application, the operation system and the server, then the server is not able to provide service for us.
+
+However, credit to the cluster of server, we don't need to care about this issure because 
+
+![OPsys](/docs/assets/opsys.png)
+
 3. Reduce the risk of people mistake
 
 
@@ -21,7 +30,7 @@ The collection of some predefined function. The main function is to enable the p
 Here is the main roles of operation system.
 ![oprole](/docs/assets/oprole.png)
 It is one of the most essential roles for the operation system.
-![OPsys](/docs/assets/opsys.png)
+
 ## Examples:
 We can open a certain file using the function fopen() in C language. The function fopen()is an example of API design for C so that it can enable the user to use a simple function to finish a serial of operation. 
 
