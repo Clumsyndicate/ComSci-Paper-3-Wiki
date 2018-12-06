@@ -7,11 +7,12 @@
 ## HL Students
 
 ### Johnson Zhou
-[PowerPoint](docs/assets/WRR_VPN.pptx)
+**[PowerPoint Download](docs/assets/WRR_VPN.pptx)**
 * [VPN](docs/VPN)
 * [Weighted Round Robin](docs/WRR)
 
 ### William Xu
+**[PowerPoint Download](docs/assets/LBB_HTTP.pptx)**
 * [Load Balancing](docs/LoadBalancing)
 * [HTTP/HTTPS](docs/HTTP)
 
