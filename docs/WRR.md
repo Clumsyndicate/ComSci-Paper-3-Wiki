@@ -1,4 +1,8 @@
 # Weighted Round Robin (WRR)
+
+## WRR Simplied
+
+
 ## How WRR works
 * Each packet flow or connection has its own packet queue in a network interface controller. 
 * It is the simplest approximation of generalized processor sharing (GPS). 
