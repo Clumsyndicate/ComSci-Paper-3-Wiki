@@ -1,5 +1,9 @@
 # IB Computer Science Paper 3 Wiki
 
+## Paper 3
+
+**[Paper 3 Document](docs/Paper3)**
+
 ## HL Students
 
 ### Johnson Zhou
