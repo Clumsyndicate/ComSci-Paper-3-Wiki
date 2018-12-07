@@ -2,8 +2,9 @@
 
 ## Paper 3
 
-**[Paper 3 Document](docs/Paper3)**
-
+* **[Paper 3 Document](docs/Paper3)**
+* **[Shared Word Document](https://ykpaoschool-my.sharepoint.com/:w:/r/personal/s12168_ykpaoschool_cn/_layouts/15/Doc.aspx?sourcedoc=%7B5307e401-cda1-4674-9317-5ec63f154891%7D&action=default)**
+* **[Paper 3 2019 Download](docs/assets/CS2019.pdf)**
 ## HL Students
 
 ### Johnson Zhou
