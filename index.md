@@ -20,7 +20,8 @@
 * [IP Hash](docs/IPHash)
 
 ### Jack Gong
-
+* [Failover](docs/Failover)
+* [GPS](GPS)
 ### Mike Liang
 * [Cluster of Server](docs/ClusterOfServer)
 
