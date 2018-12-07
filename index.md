@@ -19,7 +19,7 @@
 
 ### Jimmy Gao
 
-+ [Representational state transfer (REST)]()
+* [Representational state transfer (REST)]()
 * [Scalability / scalable architecture]()
 * [Safety-critical system]()
 * [session]()
