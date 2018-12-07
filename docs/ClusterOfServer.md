@@ -28,7 +28,7 @@ The collection of some predefined function. The main function is to enable the p
 
 ### The role of API in operation system.
 Here is the main roles of operation system.
-![oprole](/docs/assets/oprole.png)
+![oprole](/assets/oprole.png)
 It is one of the most essential roles for the operation system.
 
 ## Examples:
