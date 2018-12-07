@@ -19,7 +19,7 @@
 
 ### Jimmy Gao
 
-+ [Representational state transfer (REST)]()
+* [Representational state transfer (REST)]()
 * [Scalability / scalable architecture]()
 * [Safety-critical system]()
 * [session]()
@@ -29,7 +29,7 @@
 
 ### Jack Gong
 * [Failover](docs/Failover)
-* [GPS](GPS)
+* [GPS](docs/GPS)
 ### Mike Liang
 * [Cluster of Server](docs/ClusterOfServer)
 
