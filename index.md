@@ -18,7 +18,13 @@
 * [HTTP/HTTPS](docs/HTTP)
 
 ### Jimmy Gao
+
+* [Representational state transfer (REST)]()
+* [Scalability / scalable architecture]()
+* [Safety-critical system]()
+* [session]
 * [IP Hash](docs/IPHash)
+* [session management]()
 
 ### Jack Gong
 
