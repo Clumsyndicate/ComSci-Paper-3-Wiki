@@ -22,6 +22,7 @@
 ### Jack Gong
 
 ### Mike Liang
+* [Cluster of Server](docs/ClusterOfServer)
 
 ### Stanley Lin
 * [TCP/IP Socket](docs/TCPIPSOCKET)
