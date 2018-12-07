@@ -19,8 +19,8 @@
 
 ### Jimmy Gao
 
-* [Representational state transfer (REST)]()
-* [Scalability / scalable architecture]()
+* [Representational state transfer (REST)](docs/Representationalstatetransfer.md)
+* [Scalability/scalable architecture]()
 * [Safety-critical system]()
 * [session]()
 * [IP Hash](docs/IPHash)
