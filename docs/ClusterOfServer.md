@@ -15,7 +15,7 @@ It is the same for the server-client model. We only need to replace the hardware
 
 However, credit to the cluster of server, we don't need to care about this issure because 
 
-![OPsys](/docs/assets/opsys.png)
+![OPsys](/assets/opsys.png)
 
 3. Reduce the risk of people mistake
 
