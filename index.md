@@ -19,12 +19,12 @@
 
 ### Jimmy Gao
 
-* [Representational state transfer (REST)]()
-* [Scalability / scalable architecture]()
-* [Safety-critical system]()
-* [session]()
+* [Representational state transfer (REST)](docs/Representationalstatetransfer.md)
+* [Scalability/scalable architecture](docs/Scalabilityscalablearchitecture.md)
+* [Safety-critical system](docs/safetycriticalsystem.md)
+* [session](docs/session.md)
 * [IP Hash](docs/IPHash)
-* [session management]()
+* [session management](docs/sessionmanagement.md)
 
 
 ### Jack Gong
