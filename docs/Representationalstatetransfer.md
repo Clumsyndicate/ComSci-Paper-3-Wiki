@@ -12,3 +12,9 @@ An application or architecture considered RESTful or REST-style is characterized
 * Every resource is uniquely addressable using a uniform and minimal set of commands (typically using HTTP commands of GET, POST, PUT, or DELETE over the Internet) 
 
 * The protocol is client/server, stateless, layered, and supports caching 
+
+* * *
+* * *
+* * *
+* * *
+* * *
