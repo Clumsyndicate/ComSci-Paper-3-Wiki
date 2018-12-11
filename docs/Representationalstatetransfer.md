@@ -1,4 +1,5 @@
-# Representational state transfer (REST){line: 77; Figure.5} 
+# Representational state transfer
+>(REST){line: 77; Figure.5} 
 
 >(appeared at the representation if the user interface level. e.g. The computer aided dispatch system at a mobile data terminal in a police car) 
 
